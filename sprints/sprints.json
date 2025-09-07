@@ -1,0 +1,20 @@
+{
+  "sprints": [
+    {
+      "id": "S_36",
+      "name": "S 36",
+      "status": "planned",
+      "created_date": "2024-09-07",
+      "start_date": null,
+      "end_date": null,
+      "goals": [],
+      "tasks": [],
+      "description": "Sprint S 36 - newly created sprint"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2024-09-07",
+    "total_sprints": 1
+  }
+}
